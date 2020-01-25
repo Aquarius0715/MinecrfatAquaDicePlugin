@@ -1,0 +1,8 @@
+name: Dice
+version: 1.0.0
+main: aquarius0715.dice.Main
+api-version: 1.12.2
+commands:
+  dice:
+    description: Dice
+    usage: /<command>
